@@ -22,4 +22,4 @@
 <code><img height="23" src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=Python&logoColor=black"></code> 
 <code><img height="23" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=black"></code>
 <code><img height="23" src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=Docker&logoColor=black"></code>
-
+<code><img height="23" src="https://img.shields.io/badge/Jupyter-007ACC?style=for-the-badge&logo=Jupyter&logoColor=black"></code>
