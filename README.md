@@ -27,10 +27,10 @@
 <code><img height="23" src="https://img.shields.io/badge/Heroku-007ACC?style=for-the-badge&logo=Heroku&logoColor=black"></code>
 <code><img height="23" src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=Docker&logoColor=black"></code>
 <code><img height="23" src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=Python&logoColor=black"></code>
-pandas
-Selenium
+<code><img height="23" src="https://img.shields.io/badge/pandas-007ACC?style=for-the-badge&logo=pandas&logoColor=black"></code>
+<code><img height="23" src="https://img.shields.io/badge/Selenium-007ACC?style=for-the-badge&logo=Selenium&logoColor=black"></code>
 <code><img height="23" src="https://img.shields.io/badge/PostgreSQL-007ACC?style=for-the-badge&logo=PostgreSQL&logoColor=black"></code>
-SQLite
+<code><img height="23" src="https://img.shields.io/badge/SQLite-007ACC?style=for-the-badge&logo=SQLite&logoColor=black"></code>
 <code><img height="23" src="https://img.shields.io/badge/Jupyter-007ACC?style=for-the-badge&logo=Jupyter&logoColor=black"></code>
 
 
