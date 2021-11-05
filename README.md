@@ -18,6 +18,5 @@
 [![Prog-LucasAlves GitHub stats](https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves)](https://github.com/Prog-LucasAlves/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-LucasAlves&layout=compact)](https://github.com/Prog-LucasAlves/github-readme-stats)
 
-#4169E1 PostgreSQL
-<code><img height="20" src="https://img.shields.io/badge/PostgreSQL-ED8B00?style=for-the-badge&logo=PostgreSQL&logoColor=write"></code>
+<code><img height="20" src="https://img.shields.io/badge/PostgreSQL-007ACC?style=for-the-badge&logo=PostgreSQL&logoColor=write"></code>
 
