@@ -20,12 +20,11 @@
 
 <code><img height="23" src="https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=Windowse&logoColor=black"></code>
 <code><img height="23" src="https://img.shields.io/badge/Linux-007ACC?style=for-the-badge&logo=Linux&logoColor=black"></code>
-Microsoft Excel
 <code><img height="23" src="https://img.shields.io/badge/Microsoft Excel-007ACC?style=for-the-badge&logo=Microsoft Excel&logoColor=black"></code>
-VMware
+<code><img height="23" src="https://img.shields.io/badge/VMware-007ACC?style=for-the-badge&logo=VMware&logoColor=black"></code>
 <code><img height="23" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=black"></code>
-Git
-Heroku
+<code><img height="23" src="https://img.shields.io/badge/Git-007ACC?style=for-the-badge&logo=Git&logoColor=black"></code>
+<code><img height="23" src="https://img.shields.io/badge/Heroku-007ACC?style=for-the-badge&logo=Heroku&logoColor=black"></code>
 <code><img height="23" src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=Docker&logoColor=black"></code>
 <code><img height="23" src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=Python&logoColor=black"></code>
 pandas
