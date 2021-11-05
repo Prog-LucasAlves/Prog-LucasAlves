@@ -1,6 +1,6 @@
 # Welcome!
 
-## I'm (Lucas Alves)!
+## I'm Lucas Alves!
 
 :computer: I'm Front-End Developer!
 
