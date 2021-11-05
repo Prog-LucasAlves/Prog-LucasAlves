@@ -19,7 +19,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-LucasAlves&layout=compact)](https://github.com/Prog-LucasAlves/github-readme-stats)
 
 <code><img height="23" src="https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=Windowse&logoColor=black"></code>
-Linux
+<code><img height="23" src="https://img.shields.io/badge/Linux-007ACC?style=for-the-badge&logo=Linux&logoColor=black"></code>
 Microsoft Excel
 VMware
 <code><img height="23" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=black"></code>
