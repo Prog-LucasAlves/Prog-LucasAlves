@@ -36,4 +36,5 @@
 <code><img height="23" src="https://img.shields.io/badge/Jupyter-007ACC?style=for-the-badge&logo=Jupyter&logoColor=black"></code>
 <code><img height="23" src="https://img.shields.io/badge/Markdown-007ACC?style=for-the-badge&logo=Markdown&logoColor=black"></code>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=dados_financeiros_b3)](https://github.com/Prog-LucasAlves/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=github-readme-stats)](https://github.com/Prog-LucasAlves/github-readme-stats)
+
