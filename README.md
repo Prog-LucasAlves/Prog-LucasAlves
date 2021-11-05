@@ -34,3 +34,4 @@
 <code><img height="23" src="https://img.shields.io/badge/SQLite-007ACC?style=for-the-badge&logo=SQLite&logoColor=black"></code>
 <code><img height="23" src="https://img.shields.io/badge/Metabase-007ACC?style=for-the-badge&logo=Metabase&logoColor=black"></code>
 <code><img height="23" src="https://img.shields.io/badge/Jupyter-007ACC?style=for-the-badge&logo=Jupyter&logoColor=black"></code>
+<code><img height="23" src="https://img.shields.io/badge/Markdown-007ACC?style=for-the-badge&logo=Markdown&logoColor=black"></code>
