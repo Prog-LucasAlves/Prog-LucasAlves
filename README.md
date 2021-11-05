@@ -17,6 +17,7 @@
 ## Languages and Tools:
 [![Prog-LucasAlves GitHub stats](https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=vue)](https://github.com/Prog-LucasAlves/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-LucasAlves&layout=compact)](https://github.com/Prog-LucasAlves/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=github-readme-stats)](https://github.com/Prog-LucasAlves/github-readme-stats)
 
 <code><img height="23" src="https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=Windowse&logoColor=black"></code>
 <code><img height="23" src="https://img.shields.io/badge/Linux-007ACC?style=for-the-badge&logo=Linux&logoColor=black"></code>
