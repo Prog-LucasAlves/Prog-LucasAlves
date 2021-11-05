@@ -21,6 +21,7 @@
 <code><img height="23" src="https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=Windowse&logoColor=black"></code>
 <code><img height="23" src="https://img.shields.io/badge/Linux-007ACC?style=for-the-badge&logo=Linux&logoColor=black"></code>
 Microsoft Excel
+<code><img height="23" src="https://img.shields.io/badge/Microsoft Excel-007ACC?style=for-the-badge&logo=Microsoft Excel&logoColor=black"></code>
 VMware
 <code><img height="23" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=black"></code>
 Git
