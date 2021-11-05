@@ -19,5 +19,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-LucasAlves&layout=compact)](https://github.com/Prog-LucasAlves/github-readme-stats)
 
 <code><img height="20" src="https://img.shields.io/badge/PostgreSQL-007ACC?style=for-the-badge&logo=PostgreSQL&logoColor=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=Python&logoColor=write"></code>
+<code><img height="20" src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=Python&logoColor=black"></code>
 
