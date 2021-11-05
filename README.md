@@ -18,8 +18,20 @@
 [![Prog-LucasAlves GitHub stats](https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=radical)](https://github.com/Prog-LucasAlves/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-LucasAlves&layout=compact)](https://github.com/Prog-LucasAlves/github-readme-stats)
 
+<code><img height="23" src="https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=Windowse&logoColor=black"></code>
+Linux
+Microsoft Excel
+VMware
 <code><img height="23" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=black"></code>
-<code><img height="23" src="https://img.shields.io/badge/PostgreSQL-007ACC?style=for-the-badge&logo=PostgreSQL&logoColor=black"></code>
-<code><img height="23" src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=Python&logoColor=black"></code> 
+Git
+Heroku
 <code><img height="23" src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=Docker&logoColor=black"></code>
+<code><img height="23" src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=Python&logoColor=black"></code>
+pandas
+Selenium
+<code><img height="23" src="https://img.shields.io/badge/PostgreSQL-007ACC?style=for-the-badge&logo=PostgreSQL&logoColor=black"></code>
+SQLite
 <code><img height="23" src="https://img.shields.io/badge/Jupyter-007ACC?style=for-the-badge&logo=Jupyter&logoColor=black"></code>
+
+
+
