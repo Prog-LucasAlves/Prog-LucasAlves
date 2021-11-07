@@ -11,14 +11,16 @@
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
 ## About me
-![](https://komarev.com/ghpvc/?username=Prog-LucasAlves&style=plastic)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=plastic&logo=Github&logoColor=white&link=https://github.com/Prog-LucasAlves)](https://github.com/Prog-LucasAlves)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasalves-ast/)](https://www.linkedin.com/in/lucasalves-ast/)
-[![Medium Badge](https://img.shields.io/badge/Medium-red?style=plastic&logo=medium&logoColor=white&link=https://medium.com/@alveslucastaz)](https://medium.com/@alveslucastaz)
+<div>
+  <img height="20" src="https://komarev.com/ghpvc/?username=Prog-LucasAlves&style=plastic">
+  <a href="https://github.com/Prog-LucasAlves" target="_blank"><img height="20" src="https://img.shields.io/badge/-Github-000?style=plastic&logo=Github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lucasalves-ast/" target="_blank"><img height="20" src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white"></a>
+  <a href="https://medium.com/@alveslucastaz" target="_blank"><img height="20" src="https://img.shields.io/badge/Medium-red?style=plastic&logo=medium&logoColor=white"></a>
+</div>  
 
 ## Contact
 <a href="mailto:lucasalves_taz@hotmail.com" alt="gmail" target="_blank">
-<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white&link=mailto:lucasalves_taz@hotmail.com" />
+<img height="20" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white&link=mailto:lucasalves_taz@hotmail.com" />
 </a>
 
 ## Languages and Tools:
