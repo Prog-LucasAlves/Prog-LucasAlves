@@ -41,10 +41,10 @@
 </div>
 <br>
   
-<code><img height="20" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=Streamlit&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white"></code>
+<code><a href="https://www.markdownguide.org/"><img height="20" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a></code>
+<code><a href="https://www.selenium.dev/documentation/"><img height="20" src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white"></a></code>
+<code><a href="https://streamlit.io/"><img height="20" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=Streamlit&logoColor=white"></a></code>
+<code><a href="https://sqlite.org/index.html"><img height="20" src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white"></a></code>
 
 <br>  
 
