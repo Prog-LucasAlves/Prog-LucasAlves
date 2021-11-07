@@ -30,14 +30,18 @@
 <br>  
 
 <div style="display: inline_block">
-  <img align="center" alt="l-Python" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="l-Jupyter" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align="center" alt="l-Python" height="50" witdh="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="l-Jupyter" height="50" witdh="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" alt="l-Pandas" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
   <img align="center" alt="l-Docker" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="l-Postgre" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img align="center" alt="l-Heroku" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
 </div>
 <br>
+  
+<code><img height="23" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></code>
+
+<br>  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=dados_financeiros_b3&theme=vue
 )](https://github.com/Prog-LucasAlves/dados_financeiros_b3)
@@ -47,4 +51,4 @@
 <code><img height="23" src="https://img.shields.io/badge/AMD-Radeon_RX_550-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></code>
 <code><img height="23" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
 <code><img height="23" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
-<code><img height="23" src="https://img.shields.io/badge/Visual Studio Code-red?style=for-the-badge&logo=Visual Studio Code&logoColor=white"></code>
+<code><img height="23" src="https://img.shields.io/badge/Visual Studio Code-blue?style=for-the-badge&logo=Visual Studio Code&logoColor=white"></code>
