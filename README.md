@@ -24,7 +24,7 @@
 [![Prog-LucasAlves GitHub stats](https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=vue)](https://github.com/Prog-LucasAlves/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-LucasAlves&layout=compact)](https://github.com/Prog-LucasAlves/github-readme-stats)
 
-<code><img height="23" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"></code>
+<img height="23" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 
 <code><img height="23" src="https://img.shields.io/badge/Microsoft Excel-007ACC?style=for-the-badge&logo=Microsoft Excel&logoColor=black"></code>
 <code><img height="23" src="https://img.shields.io/badge/VMware-007ACC?style=for-the-badge&logo=VMware&logoColor=black"></code>
