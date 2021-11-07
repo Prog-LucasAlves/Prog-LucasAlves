@@ -33,11 +33,11 @@
 
 <div style="display: inline_block">
   <a href="https://www.python.org/"><img align="center" alt="l-Python" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></a>
-  <img align="center" alt="l-Jupyter" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" alt="l-Pandas" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-  <img align="center" alt="l-Docker" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="l-Postgre" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" alt="l-Heroku" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
+  <a href="https://jupyter.org/"><img align="center" alt="l-Jupyter" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></a>
+  <a href="https://pandas.pydata.org/"><img align="center" alt="l-Pandas" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></a>
+  <a href="https://www.docker.com/"><img align="center" alt="l-Docker" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></a>
+  <a href="https://www.postgresql.org/"><img align="center" alt="l-Postgre" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /></a>
+  <a href="https://www.heroku.com/"><img align="center" alt="l-Heroku" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></a>
 </div>
 <br>
   
