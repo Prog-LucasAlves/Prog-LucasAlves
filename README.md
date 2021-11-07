@@ -36,7 +36,7 @@
 </div>
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=dados_financeiros_b3
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=dados_financeiros_b3&theme=vue
 )](https://github.com/Prog-LucasAlves/dados_financeiros_b3)
 
 ## Workspace Spec
