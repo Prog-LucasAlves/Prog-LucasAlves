@@ -41,3 +41,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=dados_financeiros_b3
 )](https://github.com/Prog-LucasAlves/dados_financeiros_b3)
 
+## Workspace Spec
+<code><img height="23" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></code>
