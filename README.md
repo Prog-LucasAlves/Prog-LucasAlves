@@ -25,7 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-LucasAlves&layout=compact)](https://github.com/Prog-LucasAlves/github-readme-stats)
 
 <div style="display: inline_block">
-  <img height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img alt="l-Python" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 </div>
 <br>
 
