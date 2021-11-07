@@ -18,6 +18,8 @@
 ## Contact
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](lucasalves_taz@hotmail.com)
 
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=lucasalves_taz@hotmail.com)
+
 
 ## Languages and Tools:
 [![Prog-LucasAlves GitHub stats](https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=vue)](https://github.com/Prog-LucasAlves/github-readme-stats)
