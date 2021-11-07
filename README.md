@@ -11,6 +11,7 @@
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
 ## About me
+![](https://komarev.com/ghpvc/?username=Prog-LucasAlves&style=flat-square)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Prog-LucasAlves)](https://github.com/Prog-LucasAlves)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasalves-ast/)](https://www.linkedin.com/in/lucasalves-ast/)
 [![Medium Badge](https://img.shields.io/badge/Medium-red?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@alveslucastaz)](https://medium.com/@alveslucastaz)
@@ -33,6 +34,7 @@
   <img align="center" alt="l-Pandas" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
   <img align="center" alt="l-Docker" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="l-Postgre" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img align="center" alt="l-Heroku" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
 </div>
 <br>
 
