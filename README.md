@@ -15,6 +15,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasalves-ast/)](https://www.linkedin.com/in/lucasalves-ast/)
 [![Medium Badge](https://img.shields.io/badge/Medium-red?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@alveslucastaz)](https://medium.com/@alveslucastaz)
 
+## Contact
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&lucasalves_taz@hotmail.com)](lucasalves_taz@hotmail.com)
+
 
 ## Languages and Tools:
 [![Prog-LucasAlves GitHub stats](https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=vue)](https://github.com/Prog-LucasAlves/github-readme-stats)
