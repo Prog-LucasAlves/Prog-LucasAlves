@@ -21,8 +21,13 @@
 </a>
 
 ## Languages and Tools:
-[![Prog-LucasAlves GitHub stats](https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=vue)](https://github.com/Prog-LucasAlves/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-LucasAlves&layout=compact)](https://github.com/Prog-LucasAlves/github-readme-stats)
+<div>
+  <a href="https://github.com/Prog-LucasAlves">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=vue" />
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-LucasAlves&layout=compact&langs_count=16&theme=vue" />
+</div>   
+    
+
 
 <div style="display: inline_block">
   <img alt="l-Python" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
