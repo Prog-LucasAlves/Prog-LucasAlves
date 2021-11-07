@@ -27,10 +27,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-LucasAlves&layout=demo&langs_count=16&theme=vue" />
 </div>   
     
-
-
 <div style="display: inline_block">
-  <img alt="l-Python" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="l-Python" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="l-Jupyter" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 </div>
 <br>
 
