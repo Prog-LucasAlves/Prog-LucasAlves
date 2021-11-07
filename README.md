@@ -18,7 +18,7 @@
 ## Contact
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](lucasalves_taz@hotmail.com)
 
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=lucasalves_taz@hotmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=lucasalves_taz@hotmail.com)](lucasalves_taz@hotmail.com)
 
 
 ## Languages and Tools:
