@@ -16,21 +16,13 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-red?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@alveslucastaz)](https://medium.com/@alveslucastaz)
 
 ## Contact
-[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](lucasalves_taz@hotmail.com)
-
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=lucasalves_taz@hotmail.com)
-
 <a href="mailto:lucasalves_taz@hotmail.com" alt="gmail" target="_blank">
-
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:lucasalves_taz@hotmail.com" />
-
 </a>
-
 
 ## Languages and Tools:
 [![Prog-LucasAlves GitHub stats](https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=vue)](https://github.com/Prog-LucasAlves/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-LucasAlves&layout=compact)](https://github.com/Prog-LucasAlves/github-readme-stats)
-
 
 <code><img height="23" src="https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=Windowse&logoColor=black"></code>
 <code><img height="23" src="https://img.shields.io/badge/Linux-007ACC?style=for-the-badge&logo=Linux&logoColor=black"></code>
