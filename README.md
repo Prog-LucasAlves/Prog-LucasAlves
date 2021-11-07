@@ -13,7 +13,7 @@
 ## About me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Prog-LucasAlves)](https://github.com/Prog-LucasAlves)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasalves-ast/)](https://www.linkedin.com/in/lucasalves-ast/)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@alveslucastaz)](https://medium.com/@alveslucastaz))
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@alveslucastaz)](https://medium.com/@alveslucastaz)
 
 
 ## Languages and Tools:
