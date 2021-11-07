@@ -47,4 +47,4 @@
 ## Workspace Spec
 <code><img height="23" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></code>
 <code><img height="23" src="https://img.shields.io/badge/AMD-Radeon_RX_550-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></code>
-<code><img height="23" src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white"></code>
+<code><img height="23" src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-11&logoColor=white"></code>
