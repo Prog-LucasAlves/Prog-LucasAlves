@@ -24,25 +24,10 @@
 [![Prog-LucasAlves GitHub stats](https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=vue)](https://github.com/Prog-LucasAlves/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-LucasAlves&layout=compact)](https://github.com/Prog-LucasAlves/github-readme-stats)
 
-<img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" >
-<img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" >
-<img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-<img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-
-<code><img height="23" src="https://img.shields.io/badge/Microsoft Excel-007ACC?style=for-the-badge&logo=Microsoft Excel&logoColor=black"></code>
-<code><img height="23" src="https://img.shields.io/badge/VMware-007ACC?style=for-the-badge&logo=VMware&logoColor=black"></code>
-<code><img height="23" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=black"></code>
-<code><img height="23" src="https://img.shields.io/badge/Git-007ACC?style=for-the-badge&logo=Git&logoColor=black"></code>
-<code><img height="23" src="https://img.shields.io/badge/Heroku-007ACC?style=for-the-badge&logo=Heroku&logoColor=black"></code>
-<code><img height="23" src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=Docker&logoColor=black"></code>
-<code><img height="23" src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=Python&logoColor=black"></code>
-<code><img height="23" src="https://img.shields.io/badge/pandas-007ACC?style=for-the-badge&logo=pandas&logoColor=black"></code>
-<code><img height="23" src="https://img.shields.io/badge/Selenium-007ACC?style=for-the-badge&logo=Selenium&logoColor=black"></code>
-<code><img height="23" src="https://img.shields.io/badge/PostgreSQL-007ACC?style=for-the-badge&logo=PostgreSQL&logoColor=black"></code>
-<code><img height="23" src="https://img.shields.io/badge/SQLite-007ACC?style=for-the-badge&logo=SQLite&logoColor=black"></code>
-<code><img height="23" src="https://img.shields.io/badge/Metabase-007ACC?style=for-the-badge&logo=Metabase&logoColor=black"></code>
-<code><img height="23" src="https://img.shields.io/badge/Jupyter-007ACC?style=for-the-badge&logo=Jupyter&logoColor=black"></code>
-<code><img height="23" src="https://img.shields.io/badge/Markdown-007ACC?style=for-the-badge&logo=Markdown&logoColor=black"></code>
+<div style="display: inline_block">
+  <img height="30" witdh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+</div>
+<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=dados_financeiros_b3
 )](https://github.com/Prog-LucasAlves/dados_financeiros_b3)
