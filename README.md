@@ -29,7 +29,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=vue" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-LucasAlves&layout=demo&langs_count=16&theme=vue" />
 </div>
-<br>  
+<br>
 
 <div style="display: inline_block">
   <a href="https://www.python.org/"><img align="center" alt="l-Python" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></a>
@@ -50,6 +50,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=dados_financeiros_b3&theme=vue
 )](https://github.com/Prog-LucasAlves/dados_financeiros_b3)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ltaz)](https://github.com/Prog-LucasAlves/github-readme-stats)
+    
 
 ## Workspace Spec
 <code><img height="20" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=plastic&logo=intel&logoColor=white"></code>
