@@ -16,21 +16,15 @@
   <a href="https://github.com/Prog-LucasAlves" target="_blank"><img height="20" src="https://img.shields.io/badge/-Github-000?style=plastic&logo=Github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lucasalves-ast/" target="_blank"><img height="20" src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white"></a>
   <a href="https://medium.com/@alveslucastaz" target="_blank"><img height="20" src="https://img.shields.io/badge/Medium-red?style=plastic&logo=medium&logoColor=white"></a>
-</div>  
+</div>
 
 ## Contact
 <a href="mailto:lucasalves_taz@hotmail.com" alt="gmail" target="_blank">
 <img height="20" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white&link=mailto:lucasalves_taz@hotmail.com" />
 </a>
 
-## Languages and Tools:
-<div>
-  <a href="https://github.com/Prog-LucasAlves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=vue" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-LucasAlves&layout=demo&langs_count=16&theme=vue" />
-</div>
+## Skills
 <br>
-
 <div style="display: inline_block">
   <a href="https://www.python.org/"><img align="center" alt="l-Python" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></a>
   <a href="https://jupyter.org/"><img align="center" alt="l-Jupyter" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></a>
@@ -40,13 +34,20 @@
   <a href="https://www.heroku.com/"><img align="center" alt="l-Heroku" height="70" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></a>
 </div>
 <br>
-  
+<br>
 <code><a href="https://www.markdownguide.org/"><img height="20" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a></code>
 <code><a href="https://www.selenium.dev/documentation/"><img height="20" src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white"></a></code>
 <code><a href="https://streamlit.io/"><img height="20" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=Streamlit&logoColor=white"></a></code>
 <code><a href="https://sqlite.org/index.html"><img height="20" src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white"></a></code>
+<br>
 
-<br>  
+## Tools:
+<div>
+  <a href="https://github.com/Prog-LucasAlves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=vue" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-LucasAlves&layout=demo&langs_count=16&theme=vue" />
+</div>
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=dados_financeiros_b3&theme=vue
 )](https://github.com/Prog-LucasAlves/dados_financeiros_b3)
