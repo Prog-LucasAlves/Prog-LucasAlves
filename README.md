@@ -55,7 +55,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=Analise_Exploratoria_Dados&theme=vue
 )](https://github.com/Prog-LucasAlves/Analise_Exploratoria_Dados)  
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=Analise_Exploratoria_Dados&theme=vue
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=Ciencia_de_dados&theme=vue
 )](https://github.com/Prog-LucasAlves/Ciencia_de_dados)
 
 ## Workspace Spec
