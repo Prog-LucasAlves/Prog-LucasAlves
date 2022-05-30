@@ -54,6 +54,9 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=Analise_Exploratoria_Dados&theme=vue
 )](https://github.com/Prog-LucasAlves/Analise_Exploratoria_Dados)  
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=Analise_Exploratoria_Dados&theme=vue
+)](https://github.com/Prog-LucasAlves/Ciencia_de_dados)
 
 ## Workspace Spec
 <code><img height="20" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=plastic&logo=intel&logoColor=white"></code>
