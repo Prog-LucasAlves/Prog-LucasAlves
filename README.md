@@ -56,7 +56,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_NFL&theme=vue
 )](https://github.com/Prog-LucasAlves/AED_NFL)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=CD_Rede-Neural_Fast_Food&theme=vue)](https://github.com/Prog-LucasAlves/CD_Rede-Neural_Fast_Food)
 
 ## Workspace Spec
 <code><img height="20" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=plastic&logo=intel&logoColor=white"></code>
