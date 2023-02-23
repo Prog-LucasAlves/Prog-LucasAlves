@@ -52,9 +52,6 @@
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_Consumidor_Gov_Br&theme=vue
 )](https://github.com/Prog-LucasAlves/AED_Consumidor_Gov_Br) 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_NFL&theme=vue
-)](https://github.com/Prog-LucasAlves/AED_NFL)
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG-AirFlow&theme=vue
 )](https://github.com/Prog-LucasAlves/ENG-AirFlow)
