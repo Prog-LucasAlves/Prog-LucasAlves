@@ -4,12 +4,7 @@
 Data Analyst Student | SQL | Python | Power BI | Excel
 - 🖥 Atualmente mais focado em:
 
-<div display='inline'>
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=python,postgres,docker,flask)](https://skillicons.dev)
 
 ##
 
@@ -19,7 +14,9 @@ Data Analyst Student | SQL | Python | Power BI | Excel
  </a>
 
 
-### Habilidades
+### Habilidades:
+[![My Skills](https://skillicons.dev/icons?i=docker,fastapi,flask,github,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,py,vscode)](https://skillicons.dev)
 
 
 ### Repositórios:
