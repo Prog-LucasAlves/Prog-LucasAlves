@@ -29,10 +29,8 @@ Data Analyst Student | SQL | Python | Power BI | Excel
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=dados_financeiros_b3&theme=radical
 )](https://github.com/Prog-LucasAlves/dados_financeiros_b3)
- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_Consumidor_Gov_Br&theme=radical
-)](https://github.com/Prog-LucasAlves/AED_Consumidor_Gov_Br) 
- 
+)](https://github.com/Prog-LucasAlves/AED_Consumidor_Gov_Br)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG-AirFlow&theme=radical
 )](https://github.com/Prog-LucasAlves/ENG-AirFlow)
  
