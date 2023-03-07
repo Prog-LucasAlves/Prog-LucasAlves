@@ -23,7 +23,7 @@ Data Analyst Student | SQL | Python | Power BI | Excel
 <div>
   <a href="https://github.com/Prog-LucasAlves">
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=radical" />
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-LucasAlves&hide_progress=true&theme=radical" />
+  <img height="167em" width="442em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-LucasAlves&hide_progress=true&theme=radical" />
 </div>
 
 <div style='display: inline'>
