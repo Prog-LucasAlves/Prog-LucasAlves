@@ -1,13 +1,16 @@
-# Welcome!
 
-## I'm Lucas Alves!
+### Oi, meu nome e Lucas
 
-:computer: Python Developer!
+Data Analyst Student | SQL | Python | Power BI | Excel
+- 🖥 Atualmente mais focado em:
 
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning everything.
-
+<div display='inline'>
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+</div>
+  
 ## About me
 <div>
   <img height="20" src="https://komarev.com/ghpvc/?username=Prog-LucasAlves&style=plastic">
