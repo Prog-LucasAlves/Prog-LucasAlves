@@ -52,4 +52,3 @@ Data Analyst Student | SQL | Python | Power BI | Excel
 )](https://github.com/Prog-LucasAlves/ENG-AirFlow)
  
  </div>
-
