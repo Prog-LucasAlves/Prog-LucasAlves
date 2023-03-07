@@ -22,7 +22,7 @@ Data Analyst Student | SQL | Python | Power BI | Excel
 ### Repositórios:
 <div>
   <a href="https://github.com/Prog-LucasAlves">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=radical" />
 </div>
 
 <div style='display: inline'>
