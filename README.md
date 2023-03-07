@@ -26,7 +26,8 @@ Data Analyst Student | SQL | Python | Power BI | Excel
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog-LucasAlves&layout=compact&langs_count=16&theme=vue" />
 </div>
 
-
+<div style='display: inline'>
+ 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=dados_financeiros_b3&theme=vue
 )](https://github.com/Prog-LucasAlves/dados_financeiros_b3)
  
@@ -35,4 +36,6 @@ Data Analyst Student | SQL | Python | Power BI | Excel
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG-AirFlow&theme=vue
 )](https://github.com/Prog-LucasAlves/ENG-AirFlow)
+ 
+ </div>
 
