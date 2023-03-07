@@ -59,9 +59,3 @@ Data Analyst Student | SQL | Python | Power BI | Excel
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG-AirFlow&theme=vue
 )](https://github.com/Prog-LucasAlves/ENG-AirFlow)
 
-## Workspace Spec
-<code><img height="20" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=plastic&logo=intel&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/AMD-Radeon_RX_550-ED1C24?style=plastic&logo=amd&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Visual Studio Code-blue?style=plastic&logo=Visual Studio Code&logoColor=white"></code>
