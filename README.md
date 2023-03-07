@@ -11,7 +11,7 @@ Data Analyst Student | SQL | Python | Power BI | Excel
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
 </div>
   
-## About me
+## Você também me encontra em:
 <div>
   <img height="20" src="https://komarev.com/ghpvc/?username=Prog-LucasAlves&style=plastic">
   <a href="https://github.com/Prog-LucasAlves" target="_blank"><img height="20" src="https://img.shields.io/badge/-Github-000?style=plastic&logo=Github&logoColor=white"></a>
@@ -42,7 +42,7 @@ Data Analyst Student | SQL | Python | Power BI | Excel
 <code><a href="https://sqlite.org/index.html"><img height="20" src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white"></a></code>
 <br>
 
-## Tools:
+## Repositórios:
 <div>
   <a href="https://github.com/Prog-LucasAlves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=vue" />
