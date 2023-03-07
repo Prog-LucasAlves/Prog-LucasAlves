@@ -1,5 +1,5 @@
 
-### Oi, meu nome e Lucas
+### Oi, meu nome e Lucas 👋
 
 Data Analyst Student | SQL | Python | Power BI | Excel
 - 🖥 Atualmente mais focado em:
