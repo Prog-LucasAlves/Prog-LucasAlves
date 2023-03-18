@@ -8,6 +8,8 @@ Oi, meu nome e Lucas 👋
  👦Sobre mim 🌱 :
  
 Data Analyst Student | SQL | Python | Power BI | Excel
+
+
  
 🎓 Formado em Ciências de Dados.
 
@@ -18,6 +20,8 @@ Data Analyst Student | SQL | Python | Power BI | Excel
  🖥 Atualmente mais focado em:
 
 [![My Skills](https://skillicons.dev/icons?i=python,postgres,docker,flask)](https://skillicons.dev)
+
+ ![](https://img.shields.io/static/v1?label=KNN&message=scikit-learn&color=red)
 
  </div>
 
@@ -40,7 +44,7 @@ Data Analyst Student | SQL | Python | Power BI | Excel
 <div align="center">
  
 ### Repositórios:
-
+ 
   <a href="https://github.com/Prog-LucasAlves">
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=radical" />
 <div>
