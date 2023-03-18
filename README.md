@@ -5,10 +5,16 @@
 Oi, meu nome e Lucas 👋
 </h2>
  
+ 👦Sobre mim 🌱 :
+ 
 Data Analyst Student | SQL | Python | Power BI | Excel
  
-<img src="https://komarev.com/ghpvc/?username=Prog-LucasAlves&style=flat-square&color=blue" alt=""/>
+🎓 Formado em Ciências de Dados.
 
+🎓 Sou formado em Diversos Cursos Online [Certificados](https://github.com/Prog-LucasAlves/CV/tree/main/image).
+ 
+ ##
+ 
  🖥 Atualmente mais focado em:
 
 [![My Skills](https://skillicons.dev/icons?i=python,postgres,docker,flask)](https://skillicons.dev)
@@ -19,15 +25,13 @@ Data Analyst Student | SQL | Python | Power BI | Excel
 
 <div id="badges" align="center">
 
-### Você também me encontra em:
-<a href='https://www.linkedin.com/in/lucasalves-ast'>
-  <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white')
-</a>
-
  
 ### Habilidades:
 [![My Skills](https://skillicons.dev/icons?i=docker,fastapi,flask,github,md)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,py,vscode)](https://skillicons.dev)
+
+ ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+ ![Pandas](https://img.shields.io/badge/pandas-%23F7931E.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
@@ -52,3 +56,10 @@ Data Analyst Student | SQL | Python | Power BI | Excel
 )](https://github.com/Prog-LucasAlves/ENG-AirFlow)
  
  </div>
+ 
+ ##
+ 
+ ### Você também me encontra em:
+<a href='https://www.linkedin.com/in/lucasalves-ast'>
+  <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white')
+</a>
