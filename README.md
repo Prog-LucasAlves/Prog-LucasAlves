@@ -15,13 +15,16 @@ Data Analyst Student | SQL | Python | Power BI | Excel
 
 🎓 Sou formado em Diversos Cursos Online [Certificados](https://github.com/Prog-LucasAlves/CV/tree/main/image).
  
+<img src="https://github.com/Prog-LucasAlves/CV/blob/main/image/Badge%20-%20FADA%20-%20Forma%C3%A7%C3%A3o%20Analista%20de%20Dados%20-%20Lucas%20Alves.png" width="150" height="150">
+ 
+ 
  ##
  
  🖥 Atualmente mais focado em:
 
 [![My Skills](https://skillicons.dev/icons?i=python,postgres,docker,flask)](https://skillicons.dev)
 
- ![](https://img.shields.io/static/v1?label=KNN&message=scikit-learn&color=red)
+![](https://img.shields.io/static/v1?label=KNN&message=scikit-learn&color=red)
 
  </div>
 
