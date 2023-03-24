@@ -24,7 +24,11 @@ Data Analyst Student | SQL | Python | Power BI | Excel
 
 [![My Skills](https://skillicons.dev/icons?i=python,postgres,docker,flask)](https://skillicons.dev)
 
-![](https://img.shields.io/static/v1?label=KNN&message=scikit-learn&color=red)
+![](https://img.shields.io/static/v1?label=KNeighborsClassifier&message=scikit-learn&color=red)
+![](https://img.shields.io/static/v1?label=LogisticRegression&message=scikit-learn&color=red)
+ 
+![](https://img.shields.io/static/v1?label=DecisionTreeClassifier&message=scikit-learn&color=red)
+![](https://img.shields.io/static/v1?label=RandomForestClassifier&message=scikit-learn&color=red)
 
  </div>
 
