@@ -70,7 +70,7 @@ Data Analyst Student | SQL | Python | Power BI | Excel
  
  ##
  
- ### Você também me encontra em:
+ ### Você também me encontra no:
 <a href='https://www.linkedin.com/in/lucasalves-ast'>
   <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white')
 </a>
