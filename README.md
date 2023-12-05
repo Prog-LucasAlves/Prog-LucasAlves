@@ -25,12 +25,6 @@ Data Analyst Student | SQL | Python | Power BI | Excel
 
 [![My Skills](https://skillicons.dev/icons?i=python,postgres,docker,flask)](https://skillicons.dev)
 
-![](https://img.shields.io/static/v1?label=KNeighborsClassifier&message=scikit-learn&color=red)
-![](https://img.shields.io/static/v1?label=LogisticRegression&message=scikit-learn&color=red)
- 
-![](https://img.shields.io/static/v1?label=DecisionTreeClassifier&message=scikit-learn&color=red)
-![](https://img.shields.io/static/v1?label=RandomForestClassifier&message=scikit-learn&color=red)
-
  </div>
 
 ##
@@ -41,9 +35,7 @@ Data Analyst Student | SQL | Python | Power BI | Excel
 ### Habilidades:
 [![My Skills](https://skillicons.dev/icons?i=docker,fastapi,flask,github,md)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,py,vscode)](https://skillicons.dev)
-
- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
- ![Pandas](https://img.shields.io/badge/pandas-%23F7931E.svg?style=for-the-badge&logo=pandas&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,)](https://skillicons.dev)
 
 </div>
 
@@ -68,7 +60,9 @@ Data Analyst Student | SQL | Python | Power BI | Excel
 )](https://github.com/Prog-LucasAlves/ENG-AirFlow)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_Dados_Seguranca_Publica&theme=radical
 )](https://github.com/Prog-LucasAlves/AED_Dados_Seguranca_Publica)
- 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=PUB_Estrutura_Projeto_ETL&theme=radical
+)](https://github.com/Prog-LucasAlves/PUB_Estrutura_Projeto_ETL)
+
  </div>
  
  ##
