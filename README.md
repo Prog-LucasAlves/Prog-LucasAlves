@@ -62,8 +62,6 @@ Data Analyst Student | SQL | Python | Power BI | Excel
 )](https://github.com/Prog-LucasAlves/AED_Dados_Seguranca_Publica)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=PUB_Estrutura_Projeto_ETL&theme=radical
 )](https://github.com/Prog-LucasAlves/PUB_Estrutura_Projeto_ETL)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_API_FUTEBOL&theme=radical
-)](https://github.com/Prog-LucasAlves/ENG_API_FUTEBOL)
 
  </div>
  
