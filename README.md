@@ -47,7 +47,7 @@ Data Analyst Student | SQL | Python | Power BI | Excel
  
   <a href="https://github.com/Prog-LucasAlves">
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=radical" />
-<div>
+  </div>
 
  ##
 <div align="center">
@@ -64,12 +64,23 @@ Data Analyst Student | SQL | Python | Power BI | Excel
 )](https://github.com/Prog-LucasAlves/AED_Dados_Seguranca_Publica)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG-AirFlow&theme=radical
 )](https://github.com/Prog-LucasAlves/ENG-AirFlow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_API&theme=radical
+)](https://github.com/Prog-LucasAlves/ENG_API)
 
  </div>
+
+### Legenda Repositórios:
+
+* ![](https://cdn-icons-png.flaticon.com/16/12461/12461682.png) PUB -> Projetos sem uma definição específica.
+* ![](https://cdn-icons-png.flaticon.com/16/12461/12461682.png) AED -> Prjetos focados em análise e exploração de dados.
+* ![](https://cdn-icons-png.flaticon.com/16/12461/12461682.png) ENG -> Projetos focados na parte de engenharia de dados.
  
  ##
- 
+ <div align="center">
+  
  ### Você também me encontra no:
 <a href='https://www.linkedin.com/in/lucasalves-ast'>
   <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white')
 </a>
+ 
+</div>
