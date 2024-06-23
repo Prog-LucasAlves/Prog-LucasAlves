@@ -23,7 +23,7 @@ Data Analyst Student | SQL | Python | Power BI | Excel
  
  🖥 Atualmente mais focado em:
 
-[![My Skills](https://skillicons.dev/icons?i=python,postgres,docker,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,postgres,docker,fastapi)](https://skillicons.dev)
 
  </div>
 
