@@ -68,6 +68,8 @@ Data Analyst Student | SQL | Python | Power BI | Excel
 )](https://github.com/Prog-LucasAlves/ENG-AirFlow)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_Fastapi&theme=radical
 )](https://github.com/Prog-LucasAlves/ENG_Fastapi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_AirFlow-Faker-Docker&theme=radical
+)](https://github.com/Prog-LucasAlves/ENG_AirFlow-Faker-Docker)
 
  </div>
 
