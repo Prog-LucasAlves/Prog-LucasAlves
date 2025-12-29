@@ -44,37 +44,37 @@ Data Analyst Student | SQL | Python | Power BI | Excel
 <div align="center">
  
 ### Repositórios:
- 
-  <a href="https://github.com/Prog-LucasAlves">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=radical" />
-  </div>
+
+<a href="https://github.com/Prog-LucasAlves">
+<img height="167em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=radical"/>
+</div>
 
  ##
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=PUB_Estrutura_Projeto_ETL&theme=radical
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=PUB_Estrutura_Projeto_ETL&theme=radical
 )](https://github.com/Prog-LucasAlves/PUB_Estrutura_Projeto_ETL)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=PUB_Dados_Financeiros_B3&theme=radical
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=PUB_Dados_Financeiros_B3&theme=radical
 )](https://github.com/Prog-LucasAlves/PUB_Dados_Financeiros_B3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=PUB_Dados_SmartPhone_ML&theme=radical
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=PUB_Dados_SmartPhone_ML&theme=radical
 )](https://github.com/Prog-LucasAlves/PUB_Dados_SmartPhone_ML)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=PUB_Data_App_Stocks&theme=radical
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=PUB_Data_App_Stocks&theme=radical
 )](https://github.com/Prog-LucasAlves/PUB_Data_App_Stocks)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_Consumidor_Gov_Br&theme=radical
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_Consumidor_Gov_Br&theme=radical
 )](https://github.com/Prog-LucasAlves/AED_Consumidor_Gov_Br)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_Dados_Seguranca_Publica&theme=radical
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_Dados_Seguranca_Publica&theme=radical
 )](https://github.com/Prog-LucasAlves/AED_Dados_Seguranca_Publica)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_DBT&theme=radical
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_DBT&theme=radical
 )](https://github.com/Prog-LucasAlves/AED_DBT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_Data_Quality&theme=radical
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_Data_Quality&theme=radical
 )](https://github.com/Prog-LucasAlves/AED_Data_Quality)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG-AirFlow&theme=radical
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG-AirFlow&theme=radical
 )](https://github.com/Prog-LucasAlves/ENG-AirFlow)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_Fastapi&theme=radical
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_Fastapi&theme=radical
 )](https://github.com/Prog-LucasAlves/ENG_Fastapi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_Rates-API&theme=radical
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_Rates-API&theme=radical
 )](https://github.com/Prog-LucasAlves/ENG_Rates-API)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_MinIO&theme=radical
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_MinIO&theme=radical
 )](https://github.com/Prog-LucasAlves/ENG_MinIO)
 
  </div>
