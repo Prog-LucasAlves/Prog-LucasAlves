@@ -76,6 +76,8 @@ Data Analyst Student | SQL | Python | Power BI | Excel
 )](https://github.com/Prog-LucasAlves/ENG_Rates-API)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_MinIO&theme=radical
 )](https://github.com/Prog-LucasAlves/ENG_MinIO)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_FinOpsETL&theme=radical
+)](https://github.com/Prog-LucasAlves/ENG_FinOpsETL)
 
  </div>
 
