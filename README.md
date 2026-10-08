@@ -9,7 +9,6 @@ Oi, meu nome e Lucas 👋
  
 Data Analyst Student | SQL | Python | Power BI | Excel
 
-
  
 🎓 Formado em Ciências de Dados.
 
@@ -46,53 +45,41 @@ Data Analyst Student | SQL | Python | Power BI | Excel
 ### Repositórios:
 
 <a href="https://github.com/Prog-LucasAlves">
-<img height="167em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=radical"/>
+<img height="167em" src="https://github-readme-stats.vercel.app/api?username=Prog-LucasAlves&show_icons=true&theme=radical&cache_seconds=1800"/>
+</a>
 </div>
 
  ##
 <div align="center">
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=PUB_Estrutura_Projeto_ETL&theme=radical
-)](https://github.com/Prog-LucasAlves/PUB_Estrutura_Projeto_ETL)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=PUB_Dados_Financeiros_B3&theme=radical
-)](https://github.com/Prog-LucasAlves/PUB_Dados_Financeiros_B3)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=PUB_Dados_SmartPhone_ML&theme=radical
-)](https://github.com/Prog-LucasAlves/PUB_Dados_SmartPhone_ML)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_Consumidor_Gov_Br&theme=radical
-)](https://github.com/Prog-LucasAlves/AED_Consumidor_Gov_Br)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_Dados_Seguranca_Publica&theme=radical
-)](https://github.com/Prog-LucasAlves/AED_Dados_Seguranca_Publica)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_DBT&theme=radical
-)](https://github.com/Prog-LucasAlves/AED_DBT)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_Data_Quality&theme=radical
-)](https://github.com/Prog-LucasAlves/AED_Data_Quality)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG-AirFlow&theme=radical
-)](https://github.com/Prog-LucasAlves/ENG-AirFlow)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_Fastapi&theme=radical
-)](https://github.com/Prog-LucasAlves/ENG_Fastapi)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_Rates-API&theme=radical
-)](https://github.com/Prog-LucasAlves/ENG_Rates-API)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_MinIO&theme=radical
-)](https://github.com/Prog-LucasAlves/ENG_MinIO)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_FinOpsETL&theme=radical
-)](https://github.com/Prog-LucasAlves/ENG_FinOpsETL)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_Lakehouse_Pipeline&theme=radical
-)](https://github.com/Prog-LucasAlves/ENG_Lakehouse_Pipeline)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=PUB_Estrutura_Projeto_ETL&theme=radical&cache_seconds=1800)](https://github.com/Prog-LucasAlves/PUB_Estrutura_Projeto_ETL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=PUB_Dados_Financeiros_B3&theme=radical&cache_seconds=1800)](https://github.com/Prog-LucasAlves/PUB_Dados_Financeiros_B3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=PUB_Dados_SmartPhone_ML&theme=radical&cache_seconds=1800)](https://github.com/Prog-LucasAlves/PUB_Dados_SmartPhone_ML)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_Consumidor_Gov_Br&theme=radical&cache_seconds=1800)](https://github.com/Prog-LucasAlves/AED_Consumidor_Gov_Br)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_Dados_Seguranca_Publica&theme=radical&cache_seconds=1800)](https://github.com/Prog-LucasAlves/AED_Dados_Seguranca_Publica)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_DBT&theme=radical&cache_seconds=1800)](https://github.com/Prog-LucasAlves/AED_DBT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=AED_Data_Quality&theme=radical&cache_seconds=1800)](https://github.com/Prog-LucasAlves/AED_Data_Quality)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG-AirFlow&theme=radical&cache_seconds=1800)](https://github.com/Prog-LucasAlves/ENG-AirFlow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_Fastapi&theme=radical&cache_seconds=1800)](https://github.com/Prog-LucasAlves/ENG_Fastapi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_Rates-API&theme=radical&cache_seconds=1800)](https://github.com/Prog-LucasAlves/ENG_Rates-API)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_MinIO&theme=radical&cache_seconds=1800)](https://github.com/Prog-LucasAlves/ENG_MinIO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_FinOpsETL&theme=radical&cache_seconds=1800)](https://github.com/Prog-LucasAlves/ENG_FinOpsETL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prog-LucasAlves&repo=ENG_Lakehouse_Pipeline&theme=radical&cache_seconds=1800)](https://github.com/Prog-LucasAlves/ENG_Lakehouse_Pipeline)
 
  </div>
 
 ### Legenda Repositórios:
 
-* ![](https://cdn-icons-png.flaticon.com/16/12461/12461682.png) PUB -> Projetos sem uma definição específica.
-* ![](https://cdn-icons-png.flaticon.com/16/12461/12461682.png) AED -> Prjetos focados em análise e exploração de dados.
-* ![](https://cdn-icons-png.flaticon.com/16/12461/12461682.png) ENG -> Projetos focados na parte de engenharia de dados.
+- ![](https://cdn-icons-png.flaticon.com/16/12461/12461682.png) PUB -> Projetos sem uma definição específica.
+- ![](https://cdn-icons-png.flaticon.com/16/12461/12461682.png) AED -> Projetos focados em análise e exploração de dados.
+- ![](https://cdn-icons-png.flaticon.com/16/12461/12461682.png) ENG -> Projetos focados na parte de engenharia de dados.
  
  ##
  <div align="center">
   
  ### Você também me encontra no:
 <a href='https://www.linkedin.com/in/lucasalves-ast'>
-  <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white')
+  <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'>
 </a>
  
 </div>
